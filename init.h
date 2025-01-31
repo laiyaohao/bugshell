@@ -2,5 +2,6 @@
 #define _INIT_H_
 
 void setup(void);
+void init(void);
 
 #endif
